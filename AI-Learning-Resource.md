@@ -1,26 +1,26 @@
 #长视频优质内容
-1.IBM Technology-他们有一个Al的系列，用简单的语言和例子，解释了很多相关技术结构。
+1. IBM Technology-他们有一个Al的系列，用简单的语言和例子，解释了很多相关技术结构。
 https://www.youtube.com/@IBMTechnology
 
-2.Andrej Karpathy-OpenAl的创始人之一，现在在Tesla负责Al,他更新了很多1个小时左右的讲解Al大语言模
+2. Andrej Karpathy-OpenAl的创始人之一，现在在Tesla负责Al,他更新了很多1个小时左右的讲解Al大语言模
 型、计算机视觉的入门分享
 Intro to Large Language Models,https://www.youtube.com/@AndrejKarpathy
 
-3.Andrew Ng on Coursera-大部分的AI课程都是新手友好的，如果你想要系统从O开始，选择Audit就可以免费解
+3. Andrew Ng on Coursera-大部分的AI课程都是新手友好的，如果你想要系统从O开始，选择Audit就可以免费解
 锁了
 https://www.coursera.org/instructor/andrewng
 
-4.3Blue1 Brown-视觉化的AI和基础原理动画解读
+4. 3Blue1 Brown-视觉化的AI和基础原理动画解读
 https://www.youtube.com/@3blue1brown
 
-5.Sequoia Capital-知名风险投资公司，最近刚刚更新了他们线下闭门会，邀请了很多大佬聊Al未来预测和机会。
+5. Sequoia Capital-知名风险投资公司，最近刚刚更新了他们线下闭门会，邀请了很多大佬聊Al未来预测和机会。
 国内有很多媒体有解读版本，但信息要看一手的自己理解
 https://www.youtube.com/@sequoiacapital
 
-6.Lex Fridman-可以关注他深度采访Sam Altman、Yann LeCun的3小时视频
+6. Lex Fridman-可以关注他深度采访Sam Altman、Yann LeCun的3小时视频
 https://www.youtube.com/c/lexfridman
 
-7.小红书技术REDtec-我看了InstantID论文作者本人的解读，其他资源我觉得你如果想去面试它们也有帮助
+7. 小红书技术REDtec-我看了InstantID论文作者本人的解读，其他资源我觉得你如果想去面试它们也有帮助
 https://space.bilibili.com/1018175068
 
 #有趣的互动式技术解读

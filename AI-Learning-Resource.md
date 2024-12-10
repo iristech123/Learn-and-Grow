@@ -32,8 +32,8 @@ https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbot
 
 
 # 适合每天零碎时间刷的平台
-1. Product Hunt:https://www.producthunt.com/
-2. Hugging Face:https://huggingface.co/
+- Product Hunt:https://www.producthunt.com/
+- Hugging Face:https://huggingface.co/
 
 
 # 系统课程式学习
@@ -51,20 +51,20 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 
 ## Unsupervised learning无监督学习
-1. What is unsupervised learning?Google Cloud newsletter 什么是无监督学习？Google云简讯
+- What is unsupervised learning?Google Cloud newsletter 什么是无监督学习？Google云简讯
 https://cloud.google.com/discover/what-is-unsupervised-learning#:~:text=Unsupervised%20learning%20in%20artificial%20intelligence,any%20explicit%20guidance%20or%20instruction.
 
-2. Unsupervised Learning,Recommenders,Reinforcement Learning Coursera 无监督学习、推荐、强化学习Coursera
+- Unsupervised Learning,Recommenders,Reinforcement Learning Coursera 无监督学习、推荐、强化学习Coursera
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
 
 
 ## Reinforcement learning强化学习
-1. Reinforcement learning By Cameron Hashemi-Pour,Joseph M.Carew 强化学习作者：Cameron Hashemi--Pour、Joseph M.Carew
+- Reinforcement learning By Cameron Hashemi-Pour,Joseph M.Carew 强化学习作者：Cameron Hashemi--Pour、Joseph M.Carew
 https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning#:~:text=Reinforcement%20learning%20is%20a%20machine,learn%20through%20trial%20and%20error.
 
-2. Unsupervised Learning,Recommenders,Reinforcement Learning Coursera 无监督学习、推荐、强化学习Coursera
+- Unsupervised Learning,Recommenders,Reinforcement Learning Coursera 无监督学习、推荐、强化学习Coursera
 https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning
 
 ## Generative Al生成式人工智能
-Generative Al for Everyone,Andrew Ng 面向所有人的生成式人工智能，吴恩达
+- Generative Al for Everyone,Andrew Ng 面向所有人的生成式人工智能，吴恩达
 https://www.coursera.org/learn/generative-ai-for-everyone?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_generative-ai-for-everyone_deeplearning-ai_FTCOF_learn_country-multi&campaignid=20801851121&adgroupid=158970719914&device=c&keyword=coursera%20ai%20for%20everyone&matchtype=b&network=g&devicemodel=&adposition=&creativeid=682104215164&hide_mobile_promo&gclid=CjwKCAiAg9urBhB_EiwAgw88mdJiXja1n_UtQ3VsQ_p-pFOJ0EWxqzh713hZH7u7QM0e_nM4Qgxo0hoCm_MQAvD_BwE

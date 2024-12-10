@@ -37,7 +37,7 @@ https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbot
 
 
 # 系统课程式学习
-##Supervised learning监督学习
+## Supervised learning监督学习
 1. Introduction to Machine Learning:Supervised Learning,Google for Developers 机器学习简介：监督学习，Google for Developers
 https://developers.google.com/machine-learning/intro-to-ml/supervised
 
